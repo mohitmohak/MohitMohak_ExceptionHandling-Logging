@@ -1,0 +1,5 @@
+2020-02-27 00:15:10 INFO  TestInterest:13 - This is tester class for calculating interest.
+2020-02-27 00:15:10 INFO  TestInterest:20 - This is MENU
+2020-02-27 00:17:02 INFO  SimpleInterest:20 - This is SimpleInterest Calculator method.
+2020-02-27 00:17:02 INFO  TestInterest:20 - This is MENU
+2020-02-27 00:17:04 INFO  TestInterest:45 - Thankyou.You chose to exit.
